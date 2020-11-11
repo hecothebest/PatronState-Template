@@ -9,6 +9,6 @@ package com.mycompany.serversockettemplate.helpers;
  *
  * @author SONY-VAIO
  */
-public class Utilitis {
+public class Utilities {
     
 }
